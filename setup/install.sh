@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-GIT_REPO=https://ghp.ci/https://github.com/robweber/vsmp-plus
+GIT_REPO=https://ghp.ci/https://github.com/yushengyan2019/vsmp-plus
 GIT_BRANCH=master
 LOCAL_DIR=""
 PYTHON_VERSION=3
